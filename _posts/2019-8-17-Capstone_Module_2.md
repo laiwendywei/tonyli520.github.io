@@ -27,7 +27,7 @@ The Design Document includes a brief, but comprehensive set of requirements for 
 
 | Role        | Name           | Notes  |
 | ----------- |--------------- | ------ |
-| Process SME | A | Point of contact for questions related to business exceptions and passwords |
+| Process SME | A | Contact for questions related to business process |
 | Reviewer | B | POC for process exceptions |
 | Approval for production | C | Escations, delays |
 
@@ -35,9 +35,9 @@ The Design Document includes a brief, but comprehensive set of requirements for 
 
 ### 2.1 Process Overview
 
-| Role        | Name           |
+| Role        |      Name |
 | ----------- | -------------- |
-| Process Full Name | ACME Web Posting |
+| Process Name |  ACME Web Posting |
 | Function  | ACE |
 | Process schedule   | Daily |
 | Peak period  | No peak period |
