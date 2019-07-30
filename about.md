@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Learning Hub for RPA
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include our RPA training module
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[renshou753@gmail.com](renshou753@gmail.com)

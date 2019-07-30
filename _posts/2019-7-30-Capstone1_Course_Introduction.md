@@ -3,6 +3,8 @@ layout: post
 title: Course Introduction
 ---
 
+### Capstone 1
+
 Now that you have completed the Foundation training modules, the next step in your RPA education program is to start working on some real-life processes in which you have to utilize the full extent of your newly acquired RPA skills.
 
 To facilitate this, we have designed a dedicated training environment to be used throughout this advanced course.
@@ -12,6 +14,7 @@ The background story of the process you’re about to start is as follows: YOU w
 The main application used throughout the course is ACME System 1 – our internal web app that is useful in many endeavors and scenarios.  The pending work, or the task list, is well structured in the Work Items section. Ideally, all users should process all the available entries in the Work Items list.  However, the items in the list are not to be operated on manually. Instead, we will create Robots to handle the work for us!
 
 *** Instructions
+
 To easily complete the processes we have designed, you should consider the following instructions:
 
 You need a user account on the ACME System 1 web app. Go to http://www.acme-test.com and register today! 
