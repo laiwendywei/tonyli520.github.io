@@ -9,6 +9,8 @@ title: Capstone Module 3
 ![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG)
 !["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.png")
 !["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG")
+!["process_map"](images/process_map1.PNG)
+!["process_map"](/images/process_map1.PNG)
 
 
 | Step        | Short Description  |
