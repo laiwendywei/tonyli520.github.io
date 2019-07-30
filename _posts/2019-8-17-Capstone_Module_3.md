@@ -5,11 +5,6 @@ title: Capstone Module 3
 
 ### Process Map
 
-![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.png)
-![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG)
-!["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.png")
-!["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG")
-!["process_map"](images/process_map1.PNG)
 !["process_map"](/images/process_map1.PNG)
 
 
@@ -26,5 +21,9 @@ title: Capstone Module 3
 | 1.9 | Go back to Work Item Details and open Update Work Item.|
 | 1.10 | Set the status to “Completed”. Add a comment with the obtained SecurityHash. |
 | 1.11 | Continue with the next WI5 Activity. |
+
+!["process_map"](/images/process_map2.PNG)
+!["process_map"](/images/process_map3.PNG)
+!["process_map"](/images/process_map4.PNG)
 
 
