@@ -5,11 +5,11 @@ title: Capstone Module 3
 
 ### Process Map
 
+![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.png)
 ![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG)
+!["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.png")
+!["process_map"]("https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG")
 
-<img src="https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 | Step        | Short Description  |
 | ----------- | -------------- |
