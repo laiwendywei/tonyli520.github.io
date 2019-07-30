@@ -5,7 +5,11 @@ title: Capstone Module 3
 
 ### Process Map
 
-!["process_map"](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG)
+![process_map](https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG)
+
+<img src="https://github.com/tonyli520/tonyli520.github.io/tree/master/images/process_map1.PNG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 | Step        | Short Description  |
 | ----------- | -------------- |
@@ -18,7 +22,7 @@ title: Capstone Module 3
 | 1.7 | Open the SHA1 Online webpage - http://www.sha1-online.com/, and provide the following input: ClientID-ClientName-ClientCountry. Replace all the variables with the corresponding values. Use dashes between items, as shown above.|
 | 1.8 | Retrieve the Client Security Hash value from the webpage. |
 | 1.9 | Go back to Work Item Details and open Update Work Item.|
-| 1.10 | Set the status to “Completed”. Add a comment with the obtained [SecurityHash]. |
+| 1.10 | Set the status to “Completed”. Add a comment with the obtained SecurityHash. |
 | 1.11 | Continue with the next WI5 Activity. |
 
 

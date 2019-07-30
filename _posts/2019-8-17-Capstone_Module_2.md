@@ -29,7 +29,7 @@ The Design Document includes a brief, but comprehensive set of requirements for 
 | ----------- |--------------- | ------ |
 | Process SME | A | Contact for questions related to business process |
 | Reviewer | B | POC for process exceptions |
-| Approval for production | C | Escations, delays |
+| Approval for prod |   C | Escations, delays |
 
 ## AS IS Process Description
 
@@ -39,7 +39,7 @@ The Design Document includes a brief, but comprehensive set of requirements for 
 | ----------- | -------------- |
 | Process Name |  ACME Web Posting |
 | Function  | ACE |
-| Process schedule   | Daily |
+| Process schedule   |   Daily |
 | Peak period  | No peak period |
 
 ### 2.2 In Scope for RPA

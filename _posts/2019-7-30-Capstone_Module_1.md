@@ -13,7 +13,7 @@ The background story of the process you’re about to start is as follows: YOU w
 
 The main application used throughout the course is ACME System 1 – our internal web app that is useful in many endeavors and scenarios.  The pending work, or the task list, is well structured in the Work Items section. Ideally, all users should process all the available entries in the Work Items list.  However, the items in the list are not to be operated on manually. Instead, we will create Robots to handle the work for us!
 
-*** Instructions
+### Instructions
 
 To easily complete the processes we have designed, you should consider the following instructions:
 
