@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Course Introduction
+title: Capstone Module 1
 ---
 
-### Capstone 1
+### Capstone Introduction
 
 Now that you have completed the Foundation training modules, the next step in your RPA education program is to start working on some real-life processes in which you have to utilize the full extent of your newly acquired RPA skills.
 
@@ -21,6 +21,6 @@ You need a user account on the ACME System 1 web app. Go to http://www.acme-test
 
 The first step you need to perform upon your very first successful login is to access the User Options section and click the Reset Test Data button. A full set of test data for your user account is generated. It includes vendors, invoices, reports, clients, checks, accounts, etc.
 
-Feel free to reuse the above option at any point if you want to erase all the existing  data in your account and generate a new set. This is particularly useful in the development stage, because Work Items are marked as completed as soon as they are processed. Note: Do not reset the test data if the results of your evaluation on one of the assignments are still pending!
+Feel free to reuse the above option at any point if you want to erase all the existing  data in your account and generate a new set. This is particularly useful in the development stage, because Work Items are marked as completed as soon as they are processed. 
 
 Naturally, you may change your Password, or recover it using the Forgot Password functionality.
