@@ -26,21 +26,21 @@ intended to:
 The Design Document includes a brief, but comprehensive set of requirements for the process. Its structure is based on the input provided by the Subject Matter Expert (SME) in the process.
 
 | Role        | Name           | Notes  |
-| ------------- |:-------------:| -----:|
-| Process SME      | A | Point of contact for questions related to business exceptions and passwords |
-| Reviewer      | B     |   POC for process exceptions |
-| Approval for production | C     |    Escations, delays |
+| ----------- |--------------- | ------ |
+| Process SME | A | Point of contact for questions related to business exceptions and passwords |
+| Reviewer | B | POC for process exceptions |
+| Approval for production | C | Escations, delays |
 
 ## AS IS Process Description
 
 ### 2.1 Process Overview
 
 | Role        | Name           |
-| ------------- |:-------------:|
-| Process Full Name        | ACME Web Posting |
-| Function        | ACE |
-| Process schedule        | Daily |
-| Peak period        | No peak period |
+| ----------- | -------------- |
+| Process Full Name | ACME Web Posting |
+| Function  | ACE |
+| Process schedule   | Daily |
+| Peak period  | No peak period |
 
 ### 2.2 In Scope for RPA
 
